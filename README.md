@@ -2,12 +2,12 @@
 developed a monument recognizer using Azure CustomVision and .NET Framework WPF
 
 ## Overview
-* IDE :                 Visual Studio 
-* Framework :           .NET Framework
-* Application-Type :    WPF (Windows Presentation Foundation)
-* Service :             Cognitive Service -> Image Recongnition
-* Cloud Platform :      Azure
-* Cloud service used:   Azure-CustomVision (https://www.customvision.ai/)
+* IDE :                 Visual Studio \
+* Framework :           .NET Framework \
+* Application-Type :    WPF (Windows Presentation Foundation)\
+* Service :             Cognitive Service -> Image Recongnition \
+* Cloud Platform :      Azure \
+* Cloud service used:   Azure-CustomVision (https://www.customvision.ai/) \
 
 ## Training the CustomVision AI
 
